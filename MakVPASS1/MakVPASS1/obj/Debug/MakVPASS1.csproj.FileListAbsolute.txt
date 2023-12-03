@@ -1,0 +1,14 @@
+C:\Users\AM_admin\OneDrive\Desktop\ICS4\Assignments\PASS1\MakVPASS1\MakVPASS1\bin\Debug\MakVPASS1.exe.config
+C:\Users\AM_admin\OneDrive\Desktop\ICS4\Assignments\PASS1\MakVPASS1\MakVPASS1\bin\Debug\MakVPASS1.exe
+C:\Users\AM_admin\OneDrive\Desktop\ICS4\Assignments\PASS1\MakVPASS1\MakVPASS1\bin\Debug\MakVPASS1.pdb
+C:\Users\AM_admin\OneDrive\Desktop\ICS4\Assignments\PASS1\MakVPASS1\MakVPASS1\obj\Debug\MakVPASS1.csproj.CoreCompileInputs.cache
+C:\Users\AM_admin\OneDrive\Desktop\ICS4\Assignments\PASS1\MakVPASS1\MakVPASS1\obj\Debug\MakVPASS1.exe
+C:\Users\AM_admin\OneDrive\Desktop\ICS4\Assignments\PASS1\MakVPASS1\MakVPASS1\obj\Debug\MakVPASS1.pdb
+C:\Users\AM_admin\OneDrive\Desktop\ICS4\Assignments\PASS1\MakVPASS1\MakVPASS1\obj\Debug\MakVPASS1.csprojAssemblyReference.cache
+C:\Users\AM_admin\Desktop\ICS4\Assignments\PASS1\MakVPASS1\MakVPASS1\bin\Debug\MakVPASS1.exe.config
+C:\Users\AM_admin\Desktop\ICS4\Assignments\PASS1\MakVPASS1\MakVPASS1\bin\Debug\MakVPASS1.exe
+C:\Users\AM_admin\Desktop\ICS4\Assignments\PASS1\MakVPASS1\MakVPASS1\bin\Debug\MakVPASS1.pdb
+C:\Users\AM_admin\Desktop\ICS4\Assignments\PASS1\MakVPASS1\MakVPASS1\obj\Debug\MakVPASS1.csprojAssemblyReference.cache
+C:\Users\AM_admin\Desktop\ICS4\Assignments\PASS1\MakVPASS1\MakVPASS1\obj\Debug\MakVPASS1.csproj.CoreCompileInputs.cache
+C:\Users\AM_admin\Desktop\ICS4\Assignments\PASS1\MakVPASS1\MakVPASS1\obj\Debug\MakVPASS1.exe
+C:\Users\AM_admin\Desktop\ICS4\Assignments\PASS1\MakVPASS1\MakVPASS1\obj\Debug\MakVPASS1.pdb
