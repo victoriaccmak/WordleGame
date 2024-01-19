@@ -12,6 +12,6 @@ This project demonstrates a mastery of file I/O, ASCII characters for the graphi
 
 In order to run the game, Visual Studios 2019 is required. The entire folder, Escape, can be cloned on to your own machine to be run. 
 
-##How to Play
+## How to Play
 
 To select your choices in the menu, simply type in your choice and press ENTER. When you are playing the game, simply type in your answer and press ENTER. A green letter means that it was used int the right spot. A Yellow letter means that it is in the word, but in the wrong position. A gray letter means that the letter is not in the word. Guess the word within six guesses with these hints! 
